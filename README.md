@@ -52,7 +52,3 @@ Spoiler: predicting virality is hard but the project demonstrates **end-to-end d
 - Real-world data is messy — preprocessing and feature engineering are crucial.  
 - Some prediction tasks (like video virality) may be **inherently noisy**.  
 - Even "low-performing" models reveal insights about data limitations.  
-
----
-
-## 📂 Repository Structure
