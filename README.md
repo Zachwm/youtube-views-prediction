@@ -6,7 +6,7 @@ Spoiler: predicting virality is hard but the project demonstrates **end-to-end d
 ---
 
 ## 🚀 Project Overview
-- Dataset: [YouTube Trending Video Dataset (US)](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
+- Dataset: [YouTube Trending Video Dataset (US)](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 - Goal: Predict video view counts from metadata.
 - Models: Random Forest (initial), [CatBoost Regressor](https://catboost.ai) (final).
 - Metrics: MSE, MAE, R².
