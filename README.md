@@ -1,7 +1,7 @@
 # YouTube Views Prediction 🎥📊
 
 This project explores whether we can **predict the number of views a YouTube video will get** using only metadata available at upload time (title, description, tags, publish time, channel stats, etc.).  
-Spoiler: predicting virality is hard with so many different factors that come in to play
+Spoiler: predicting virality is hard with so many different factors that come in to play.
 
 ---
 
