@@ -1,7 +1,7 @@
 # YouTube Views Prediction 🎥📊
 
 This project explores whether we can **predict the number of views a YouTube video will get** using only metadata available at upload time (title, description, tags, publish time, channel stats, etc.).  
-Spoiler: predicting virality is hard but the project demonstrates **end-to-end data science skills**: cleaning, feature engineering, model building, and evaluation.
+Spoiler: predicting virality is hard with so many different factors that come in to play
 
 ---
 
@@ -34,7 +34,7 @@ Spoiler: predicting virality is hard but the project demonstrates **end-to-end d
 | Mean Absolute Error | 1.35e6 |
 | R² Score | 0.06 |
 
-➡️ **Interpretation**: YouTube virality is influenced by external factors (promotion, algorithm, trends) that are not captured in metadata. This makes accurate prediction extremely challenging.  
+➡️ **Interpretation**: YouTube virality is influenced by factors such as thumbnail, and actual video content that are not captured in metadata. This makes getting an accurate prediction from meta-data often impossible.  
 
 ---
 
@@ -49,6 +49,6 @@ Spoiler: predicting virality is hard but the project demonstrates **end-to-end d
 ---
 
 ## 📈 Lessons Learned
-- Real-world data is messy — preprocessing and feature engineering are crucial.  
-- Some prediction tasks (like video virality) may be **inherently noisy**.  
+- Real-world data is messy and will often not end up how we want it to.  
+- Some prediction tasks may simply not be possible with the data that is provided.  
 - Even "low-performing" models reveal insights about data limitations.  
